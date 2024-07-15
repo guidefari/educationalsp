@@ -1,0 +1,1 @@
+[educationalsp]2024/07/15 14:12:16 main.go:12: I started
